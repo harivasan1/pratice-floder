@@ -1,0 +1,2 @@
+# https-github.com-harivasan1-employee-management-app
+odern React + Vite based Employee Management System with a beautiful glassmorphic UI, authentication, employee CRUD operations, filtering, statistics, and localStorage persistence.  This project demonstrates real-world frontend skills including routing, state management, form validation, responsive design, and clean component architecture.
